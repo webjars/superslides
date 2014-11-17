@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>superslides</artifactId>
-    <version>0.6.2-1</version>
+    <version>0.6.2-2-SNAPSHOT</version>
     <name>Superslides</name>
     <description>WebJar for Superslides</description>
     <url>http://webjars.org</url>
@@ -53,7 +53,7 @@
         <url>http://github.com/webjars/superslides</url>
         <connection>scm:git:https://github.com/webjars/superslides.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/superslides.git</developerConnection>
-        <tag>superslides-0.6.2-1</tag>
+        <tag>HEAD</tag>
     </scm>
     
     <dependencies>
